@@ -1,0 +1,36 @@
+ - title: "Sumo Report Generator"
+   url: "https://github.com/SumoLogic/sumo-report-generator"
+   img: "images/2.png"
+
+ - title: "CloudWatch Connector"
+   url: "https://github.com/santthosh/sumologic-cloudwatch-lambda"
+   img: "images/3.png"
+
+ - title: "Lambda Unzip"
+   url: "https://github.com/frankreno/sumologic-aws-lambda-unzip"
+   img: "images/4.png"
+
+ - title: "Hubot for Sumo Logic"
+   url: "https://www.npmjs.com/package/hubot-sumologic"
+   img: "images/8.png"
+
+ - title: "Regular Expressions"
+   url: "https://github.com/SumoGoodies/Useful-RegEx"
+   img: "images/9.png"
+
+ - title: "Nodejs Client"
+   url: "https://www.npmjs.com/package/logs-to-sumologic"
+   img: "images/16.png"
+
+ - title: "FluentD Plugin for Sumo Logic"
+   url: "https://github.com/memorycraft/fluent-plugin-sumologic"
+   img: "images/6.png"
+
+ - title: "Ruby Search"
+   url: "https://github.com/swipely/sumo"
+   img: "images/11.png"
+
+ - title: "Sumo Control"
+   url: "https://github.com/secondrotation/sumo_control"
+   img: "images/8.png"
+

@@ -1,0 +1,23 @@
+ - title: "Sumo Report Generator"
+   repo_description: "Tool that allows a user to execute multiple searches, and compile the data into a single report."
+   url: "https://github.com/SumoLogic/sumo-report-generator"
+
+ - title: "CloudWatch logs connector for SumoLogic"
+   repo_description: "Beam CloudWatch logs to SumoLogic using AWS Lambda"
+   url: "https://github.com/santthosh/sumologic-cloudwatch-lambda"
+ - title: "sumologic-aws-lambda-unzip"
+   repo_description: "A Java Lambda function that can uncompress a zip file, read the files inside and send them to Sumo Logic."
+   url: "https://github.com/frankreno/sumologic-aws-lambda-unzip"
+
+ - title: "SumoKube"
+   repo_description: "Sumo Logic daemon set for Kubernetes"
+   url: "https://github.com/jdumars/sumokube"
+
+ - title: "Hubot for Sumo Logic"
+   repo_description: "Sumologic integration for Hubot"
+   url: "https://www.npmjs.com/package/hubot-sumologic"
+
+ - title: "Useful Regular Expressions"
+   repo_description: "A Collection of Useful Regular Expressions when searching logs using Sumo Logic"
+   url: "https://github.com/SumoGoodies/Useful-RegEx"
+

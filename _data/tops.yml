@@ -1,0 +1,47 @@
+ - title: "Sumo Report Generator"
+   repo_description: "Tool that allows a user to execute multiple searches, and compile the data into a single report."
+   url: "https://github.com/SumoLogic/sumo-report-generator"
+
+ - title: "CloudWatch logs connector for SumoLogic"
+   repo_description: "Beam CloudWatch logs to SumoLogic using AWS Lambda"
+   url: "https://github.com/santthosh/sumologic-cloudwatch-lambda"
+ - title: "sumologic-aws-lambda-unzip"
+   repo_description: "A Java Lambda function that can uncompress a zip file, read the files inside and send them to Sumo Logic."
+   url: "https://github.com/frankreno/sumologic-aws-lambda-unzip"
+
+ - title: "SumoKube"
+   repo_description: "Sumo Logic daemon set for Kubernetes"
+   url: "https://github.com/jdumars/sumokube"
+
+ - title: "Hubot for Sumo Logic"
+   repo_description: "Sumologic integration for Hubot"
+   url: "https://www.npmjs.com/package/hubot-sumologic"
+
+ - title: "Useful Regular Expressions"
+   repo_description: "A Collection of Useful Regular Expressions when searching logs using Sumo Logic"
+   url: "https://github.com/SumoGoodies/Useful-RegEx"
+
+ - title: "Log Reflector” for AWS Lambda"
+   repo_description: "Collect CloudWatch log groups and forward then to one centralizing Lambda function"
+   url: "http://blog.davidablack.net/2016/08/17/a-log-reflector-for-aws-lambda/"
+
+ - title: "SumoTools PowerShell Module"
+   repo_description: "PowerShell Module of functions running against the Sumo Logic API. It requires version 3.0 of PowerShell, as data is returned in JSON format and the module uses the ConvertFrom-Json function."
+   url: 
+
+ - title: "Nodejs Client"
+   repo_description: "A simple client implementation in node.js to send logs to Sumo Logic."
+   url: "https://www.npmjs.com/package/logs-to-sumologic"
+
+ - title: "FluentD Plugin for Sumo Logic"
+   repo_description: "Open-source data collector that decouples data sources from backend systems."
+   url: "https://github.com/memorycraft/fluent-plugin-sumologic"
+
+ - title: "Sumo Search for Ruby"
+   repo_description: "A Ruby Gem that utilizes the Sumo Logic Search Job API and allows you to search logs from the command line."
+   url: "https://github.com/swipely/sumo"
+
+ - title: "Sumo Control"
+   repo_description: "Ruby Gem that allows to manage Sumo Logic collectors from the command line"
+   url: "https://github.com/secondrotation/sumo_control"
+

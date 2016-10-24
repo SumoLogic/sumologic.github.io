@@ -1,0 +1,35 @@
+ - title: "FluentD Plugin for Sumo Logic"
+   repo_description: "Open-source data collector that decouples data sources from backend systems."
+   url: "https://github.com/memorycraft/fluent-plugin-sumologic"
+
+ - title: "Chef Cookbook for Sumo Logic"
+   repo_description: "Sumo Logic Collector Chef Cookbook"
+   url: "https://github.com/SumoLogic/sumologic-collector-chef-cookbook"
+
+ - title: "Hubot for Sumo Logic"
+   repo_description: "Sumologic integration for Hubot"
+   url: "https://www.npmjs.com/package/hubot-sumologic"
+
+ - title: "Log Reflector for AWS Lambda"
+   repo_description: "Collect CloudWatch log groups and forward then to one centralizing Lambda function"
+   url: "http://blog.davidablack.net/2016/08/17/a-log-reflector-for-aws-lambda/"
+
+ - title: "Chef Cookbook for unattended collector install"
+   repo_description: "PagerDuty's recipe for an unattended install of Sumo Logic's sumocollector via Chef."
+   url: "https://github.com/PagerDuty/chef-sumologic"
+
+ - title: "Chef Handler"
+   repo_description: "A Chef Report and Error handler that integrates with SumoLogic"
+   url: "https://github.com/duchatran/chef-handler-sumologic"
+
+ - title: "DataDog-SumoLogic Script Integration"
+   repo_description: "A script package to integrate SumoLogic alerts with Datadog."
+   url: "https://github.com/duchatran/DataDog_SumoLogicIntegration"
+
+ - title: "Twillio Alerts From Sumo"
+   repo_description: "Create a Twilio compatible Sumo Logic webhook with Lambda."
+   url: "https://github.com/k6zrPw3XmAG5jy/sumologic-twilio"
+
+ - title: "Jenkins Publisher Plugin"
+   repo_description: "Jenkins Plugin for Sumo Logic written in Java."
+   url: "https://github.com/SumoLogic/sumologic-jenkins-plugin"

@@ -1,0 +1,75 @@
+ - title: "Sumo Report Generator"
+   repo_description: "Tool that allows a user to execute multiple searches, and compile the data into a single report."
+   url: "https://github.com/SumoLogic/sumo-report-generator"
+
+ - title: "CloudWatch logs connector for SumoLogic"
+   repo_description: "Beam CloudWatch logs to SumoLogic using AWS Lambda"
+   url: "https://github.com/santthosh/sumologic-cloudwatch-lambda"
+ - title: "sumologic-aws-lambda-unzip"
+   repo_description: "A Java Lambda function that can uncompress a zip file, read the files inside and send them to Sumo Logic."
+   url: "https://github.com/frankreno/sumologic-aws-lambda-unzip"
+
+ - title: "SumoKube"
+   repo_description: "Sumo Logic daemon set for Kubernetes"
+   url: "https://github.com/jdumars/sumokube"
+
+ - title: "Hubot for Sumo Logic"
+   repo_description: "Sumologic integration for Hubot"
+   url: "https://www.npmjs.com/package/hubot-sumologic"
+
+ - title: "Sumo Logic SDK in Ruby"
+   repo_description: "The Ruby SDK ported from the Sumo Logic Python SDK, providing a Ruby interface to the Sumo Logic REST API."
+   url: "https://github.com/grokify/sumologic-sdk-ruby"
+
+ - title: "SumoTools PowerShell Module"
+   repo_description: "PowerShell Module of functions running against the Sumo Logic API"
+   url: "https://github.com/ScriptAutomate/SumoTools"
+
+ - title: "Useful Regular Expressions"
+   repo_description: "A Collection of Useful Regular Expressions when searching logs using Sumo Logic"
+   url: "https://github.com/SumoGoodies/Useful-RegEx"
+
+ - title: "Log Reflector” for AWS Lambda"
+   repo_description: "Collect CloudWatch log groups and forward then to one centralizing Lambda function"
+   url: "http://blog.davidablack.net/2016/08/17/a-log-reflector-for-aws-lambda/"
+
+ - title: "Manage with Puppet"
+   repo_description: "Install and manage the Sumo Logic collector and its log sources with Puppet."
+   url: "https://github.com/pjorg/pjorg-puppet-sumo"
+
+ - title: "Nodejs Client"
+   repo_description: "A simple client implementation in node.js to send logs to Sumo Logic."
+   url: "https://www.npmjs.com/package/logs-to-sumologic"
+
+ - title: "FluentD Plugin for Sumo Logic"
+   repo_description: "Open-source data collector that decouples data sources from backend systems."
+   url: "https://github.com/memorycraft/fluent-plugin-sumologic"
+
+ - title: "Sumo Search for Ruby"
+   repo_description: "A Ruby Gem that utilizes the Sumo Logic Search Job API and allows you to search logs from the command line."
+   url: "https://github.com/swipely/sumo"
+
+ - title: "Sumo Control"
+   repo_description: "Ruby Gem that allows to manage Sumo Logic collectors from the command line"
+   url: "https://github.com/secondrotation/sumo_control"
+
+ - title: "FER"
+   repo_description: "A collection of useful field extraction rules."
+   url: "https://github.com/SumoGoodies/FER"
+
+ - title: "Puppet Module to install a Sumo collector"
+   repo_description: "Sample tasks: 1. In Sumo, create Access ID/Key for collector registration. 2. Copy this module onto your Puppet Master module repository. 3. In Your puppet console, assign the Sumo class to your targeted nodes."
+   url: "https://github.com/SumoGoodies/PuppetModule_Windows"
+
+ - title: "CloudWatch to Sumo Logic"
+   repo_description: "Python script to send CloudWatch logs to Sumo Logic"
+   url: "https://github.com/gadouryd/SumoLogic/blob/master/cloudwatch_to_sumo.py"
+
+ - title: "Winston SNS Transport"
+   repo_description: "Winston Transport for Amazon SNS specialized for JSON logs in Sumo Logic"
+   url: "https://github.com/Battlefy/winston-sns-sumo-logic"
+
+ - title: ""
+   repo_description: ""
+   url: ""
+

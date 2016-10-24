@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>Sumo Logic Experts</title>
+</head>
+<body>
+
+  <div class="container-fluid">
+    <div class="row">
+       <div class="col-lg-2">
+          <address> 
+           <img src="/images/Sumo-Logic-logo.png" alt="Sumo-Logic-logo.png" class="img-rounded" width="64" height="64"> <!-- strong> Sumo Logic, Inc.</strong -->
+         </address>
+      </div> <!-- end col -->
+      <div class="col-lg-6">
+            <strong>Welcome to Sumo Logic Experts</strong> - Here you'll find real-world solutions created by our customers, Sales Engineers and Customers Success teams. Feel free to contribute to this page.
+      </div>
+    </div> <!-- end row -->
+    <div class="row">
+      <div class="col-lg-8">
+        <h4>Client applications, libraries, tools, and solutions from our expert teams</h4>
+  	       <table class="table table-hover">
+  		        <tbody>
+            		{% for expert in site.data.experts %}
+  	           	<tr>
+  	           		<td><a href="{{ expert.url }}" target="_blank" alt="{{ expert.title }}" >{{ expert.title }}</a></td>
+  	           		<td>{{ expert.repo_description }}</td>
+  	            	{% endfor %}
+  		           </tr>
+  	         	</tbody>
+  	         </table>
+       </div>
+      <div class="col-lg-3 col-md-6 col-md-offset-3 col-lg-offset-0">
+         <h3 class="text-center">Dev Blog</h3>
+          <div class="media-object-default">
+            {% for blog in site.data.blogs %}
+             <div class="media">
+               <div class="media-left"> <a href="{{ blog.url }}"> <img src="{{ blog.imgurl }}" alt="" width="64" height="64"></a> </div>
+               <div class="media-body">
+                <abbr title="Phone"></abbr --> <a href="{{ blog.url }}">{{ blog.title }}</a></div>
+              </div>
+           {% endfor %}
+
+           </div>
+        </div>
+    </div>
+  </div>
