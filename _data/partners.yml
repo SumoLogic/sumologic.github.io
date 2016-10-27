@@ -1,5 +1,5 @@
  - title: "Logs to FluentD from Docker"
-   repo_description: "Fluentd container designed to run as a kubernetes DaemonSet. PullS all the kubelet, docker daemon and container logs from the host then to ship them off to SumoLogic."
+   repo_description: "Fluentd container designed to run as a kubernetes DaemonSet. Pulls all the kubelet, docker daemon and container logs from the host then to ship them off to SumoLogic."
    url: "https://github.com/peopledata/fluentd"
 
  - title: "FluentD Plugin for Sumo Logic"
