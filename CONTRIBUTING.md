@@ -1,8 +1,8 @@
 # CONTRIBUTING
 
-Contributors are generally employees of Sumo Logic. Community Members may make suggestions that contributors may choose the support.
+Contributors are generally employees of Sumo Logic. Community Members may make suggestions that contributors may choose to support.
 
-There are two types of contribution. The first is to contribute new content. The second is by enhancing the site.
+There are two ways to contribute. The first is to add new repo listings to sumo-experts.html or sumo-partners.html. The second is by enhancing the site itself.
 
 ## Updating Content
 Jekyll is a static site generator that includes the Liquid template engine to create data-driven sites. So using Liquid’s template language I was able to populate open-source projects into the site using data read from a Yaml file. This feature allows our internal teams to quickly update the site without having to muck in the code. 
