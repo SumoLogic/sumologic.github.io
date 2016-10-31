@@ -11,8 +11,8 @@ Note: You do not need to install Jekyll to update these .yml files.
 
 Updating content is a simple matter of editing one of two .yml files. 
 
-experts.yml - updates the sumo-experts.html page
-partners.yml - updates the partners.html page
+* experts.yml - updates the sumo-experts.html page
+* partners.yml - updates the partners.html page
 
 A typical entry looks like:
 
@@ -35,7 +35,7 @@ Most html files are stored in the root directory. Jekyll generates _site, _layou
 * _includes - contains the HTML Head, the site header markup, the footer and other includes.
 * images - site images.
 * css - site css including Bootstrap.css
-* js - Supporting Bootstarp Javascript files.
+* js - Supporting Bootstrap Javascript files.
 
 
 ## How to contribute?
