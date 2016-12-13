@@ -1,7 +1,10 @@
+ - title: "Saltstack Formulas for Sumo Logic"
+   repo_description: "Formulas are pre-written Salt States. These formulas can be used to setup the Sumo Logic service."
+   url: "https://github.com/saltstack-formulas/sumo-logic-formula"
+
  - title: "Sumo Report Generator"
    repo_description: "Tool that allows a user to execute multiple searches, and compile the data into a single report."
    url: "https://github.com/SumoLogic/sumo-report-generator"
-
  - title: "CloudWatch logs connector for SumoLogic"
    repo_description: "Beam CloudWatch logs to SumoLogic using AWS Lambda"
    url: "https://github.com/santthosh/sumologic-cloudwatch-lambda"
