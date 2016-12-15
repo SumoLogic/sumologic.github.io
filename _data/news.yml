@@ -6,6 +6,10 @@
    url: "https://github.com/SumoLogic/fluentd-kubernetes-sumologic"
    img: "images/2.png"
 
+ - title: "Epigraph Framework"
+   url: "https://github.com/SumoLogic/epigraph"
+   img: "images/8.png"
+
  - title: "Sumo Report Generator"
    url: "https://github.com/SumoLogic/sumo-report-generator"
    img: "images/2.png"
@@ -17,10 +21,6 @@
  - title: "Lambda Unzip"
    url: "https://github.com/frankreno/sumologic-aws-lambda-unzip"
    img: "images/4.png"
-
- - title: "Hubot for Sumo Logic"
-   url: "https://www.npmjs.com/package/hubot-sumologic"
-   img: "images/8.png"
 
  - title: "Regular Expressions"
    url: "https://github.com/SumoGoodies/Useful-RegEx"
