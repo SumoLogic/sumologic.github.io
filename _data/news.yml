@@ -1,3 +1,11 @@
+ - title: "FluentD Output to Sumo"
+   url: "https://github.com/SumoLogic/fluentd-output-sumologic"
+   img: "images/2.png"
+
+ - title: "fluentd-Kubernetes to Sumo"
+   url: "https://github.com/SumoLogic/fluentd-kubernetes-sumologic"
+   img: "images/2.png"
+
  - title: "Sumo Report Generator"
    url: "https://github.com/SumoLogic/sumo-report-generator"
    img: "images/2.png"
@@ -22,15 +30,7 @@
    url: "https://www.npmjs.com/package/logs-to-sumologic"
    img: "images/16.png"
 
- - title: "FluentD Plugin for Sumo Logic"
-   url: "https://github.com/memorycraft/fluent-plugin-sumologic"
-   img: "images/6.png"
-
  - title: "Ruby Search"
    url: "https://github.com/swipely/sumo"
    img: "images/11.png"
-
- - title: "Sumo Control"
-   url: "https://github.com/secondrotation/sumo_control"
-   img: "images/8.png"
 
