@@ -1,8 +1,8 @@
- - title: "FluentD to Sumo"
+ - title: "FluentD out to Sumo"
    url: "https://github.com/SumoLogic/fluentd-output-sumologic"
    img: "images/2.png"
 
- - title: "fluentd-Kubernetes to Sumo"
+ - title: "Kubernetes to Sumo"
    url: "https://github.com/SumoLogic/fluentd-kubernetes-sumologic"
    img: "images/2.png"
 
