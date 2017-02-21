@@ -1,5 +1,8 @@
+ - title: "powerstrip-loggiles"
+   repo_description: "Easily centralize log files from within a container when 'fat' containers make it difficult to log to stdout."
+   url: ""
  - title: "Saltstack Formulas for Sumo Logic"
-   repo_description: "Formulas are pre-written Salt States. These formulas can be used to setup the Sumo Logic service."
+   repo_description: "Formulas are pre-written Salt States. These formulas can be used to setup the Sumo Logic service.-"
    url: "https://github.com/saltstack-formulas/sumo-logic-formula"
 
  - title: "Sumo Report Generator"
@@ -72,7 +75,5 @@
    repo_description: "Winston Transport for Amazon SNS specialized for JSON logs in Sumo Logic"
    url: "https://github.com/Battlefy/winston-sns-sumo-logic"
 
- - title: ""
-   repo_description: ""
-   url: ""
+
 
