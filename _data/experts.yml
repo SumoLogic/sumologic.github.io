@@ -1,4 +1,4 @@
- - title: "powerstrip-loggiles"
+ - title: "powerstrip-logfiles"
    repo_description: "Easily centralize log files from within a container when 'fat' containers make it difficult to log to stdout."
    url: ""
  - title: "Saltstack Formulas for Sumo Logic"
