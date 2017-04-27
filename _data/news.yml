@@ -10,9 +10,9 @@
    url: "https://github.com/SumoLogic/epigraph"
    img: "images/8.png"
 
- - title: "Sumo Report Generator"
-   url: "https://github.com/SumoLogic/sumo-report-generator"
-   img: "images/2.png"
+ - title: "Sumo Logic JavaScript SDK"
+   url: "https://github.com/SumoLogic/js-logging-sdk"
+   img: "images/16.png"
 
  - title: "CloudWatch Connector"
    url: "https://github.com/santthosh/sumologic-cloudwatch-lambda"
