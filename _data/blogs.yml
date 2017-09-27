@@ -1,6 +1,10 @@
  - title: "How Should We Monitor Docker Now?"
-   url: "How Should We Monitor Docker Now?"
+   url: "https://www.sumologic.com/blog/using-sumo/docker-monitoring/"
    imgurl: "/images/9.png"
+
+ - title: "Collect Logs and Metrics from your Terraform Infrastructure"
+   url:  "https://www.sumologic.com/blog/devops/terraform-sumo-logic/"
+   imgurl: "/images/15.png"   
 
  - title: "How to Develop a CI Pipeline with Jenkins"
    url:  "https://www.sumologic.com/blog/devops/jenkins-developing-ci-pipeline/"
@@ -17,7 +21,3 @@
  - title: "Managing Container Data Using Docker Data Volumes"
    url:  "https://www.sumologic.com/blog-devops/managing-container-data-using-docker-data-volumes/"
    imgurl: "/images/10.png"
-
- - title: "Integrating Apps with the Sumo Logic Search API"
-   url:  "https://www.sumologic.com/blog-devops/integrating-apps-sumo-logic-search-api/"
-   imgurl: "/images/15.png"
