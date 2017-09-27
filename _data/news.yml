@@ -14,6 +14,10 @@
    url: "https://github.com/SumoLogic/elasticsearch-client"
    img: "images/2.png"
 
+ - title: "Sumo JavaScript SDK"
+   url: "https://github.com/SumoLogic/js-logging-sdk"
+   img: "images/16.png"
+
  - title: "Grafana Sumo logic plugin"
    url: "https://github.com/SumoLogic/grafana-sumo"
    img: "images/3.png"

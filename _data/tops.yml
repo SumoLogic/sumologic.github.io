@@ -1,3 +1,7 @@
+ - title: "Sumo Logic JavaScript SDK for Logging"
+   repo_description: "The Sumo Logic JavaScript Logging SDK library enables you to send custom log messages to an HTTP Source without installing a Collector on your server."
+   url: "https://github.com/SumoLogic/js-logging-sdk"
+
  - title: "Sumo Report Generator"
    repo_description: "Tool that allows a user to execute multiple searches, and compile the data into a single report."
    url: "https://github.com/SumoLogic/sumo-report-generator"
