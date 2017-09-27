@@ -134,48 +134,23 @@ layout: default
     </div>
     
       <div class="col-lg-3 col-md-6 col-md-offset-3 col-lg-offset-0">
-      <h3 class="text-center">Featured Repositories</h3>
+      <h3 class="text-center">Featured Blogs</h3>
       <div class="media-object-default">
-        
-        <div class="media">
-          <div class="media-left"> <a href="https://github.com/SumoLogic/dmail"> <img src="/images/6.png" alt="" width="64" height="64"></a> </div>
-          <div class="media-body">
-            <h4 class="media-heading">Dmail</h4>
-            <abbr title="Phone"></abbr --> Send Sumo Logic dashboards through email.</div>
-        </div>
-        <div class="media">
-          <div class="media-left"> <a href="https://github.com/SumoLogic/sumologic-jenkins-plugin"> <img src="/images/9.png" alt="" width="64" height="64"></a> </div>
-          <div class="media-body">
-            <h4 class="media-heading">Jenkins Publisher Plugin</h4>
-            <abbr title="Phone"></abbr --> Jenkins Plugin for Sumo Logic written in Java.</div>
-        </div>
 
-        <div class="media">
-          <div class="media-left"> <a href="https://github.com/SumoLogic/sumobot"> <img src="/images/11.png" alt="" width="64" height="64"> </a> </div>
-          <div class="media-body">
-            <h4 class="media-heading">Sumobot Plugin for Slack</h4>
-            <abbr title="Phone" --></abbr>Plugin for our Slack bot to automate our change management process. </div>
-        </div>
-          <div class="media">
-          <div class="media-left"> <a href="http://blog.davidablack.net/2016/08/17/a-log-reflector-for-aws-lambda/"> <img src="/images/10.png" alt="" width="64" height="64"></a> </div>
-          <div class="media-body">
-            <h4 class="media-heading">Log Reflector for Lambda</h4>
-            <abbr title="Phone"></abbr --> Collect CloudWatch log groups and forward to one centralizing Lambda function.</div>
-        </div>
-        <!-- /div -->
-          <div class="media">
-          <div class="media-left"> <a href="https://github.com/SumoLogic/sumologic-log4j2-appender"> <img src="/images/16.png" alt="" width="64" height="64"></a> </div>
-          <div class="media-body">
-            <h4 class="media-heading">Log4j 2 Appender</h4>
-            <abbr title="Phone"></abbr --> A Log4J 2 appender that sends straight to Sumo Logic.</div>
-        </div>
-        <!-- /div -->
-          <div class="media">
-          <div class="media-left"> <a href="https://github.com/SumoLogic/sumologic-log4j2-appender"> <img src="/images/2.png" alt="" width="64" height="64"></a> </div>
-          <div class="media-body">
-            <h4 class="media-heading">SumoKube</h4>
-            <abbr title="Phone"></abbr --> Sumo Logic daemon set for Kubernetes.</div>
-        </div>
+        <!-- Removed static content start - --> 
+       
+       
+          {% for blog in site.data.blogs %}
+             <div class="media">
+               <div class="media-left"> <a href="{{ blog.url }}"> <img src="{{ blog.imgurl }}" alt="" width="64" height="64"></a> </div>
+               <div class="media-body">
+                <abbr title="Phone"></abbr --> <a href="{{ blog.url }}">{{ blog.title }}</a></div>
+              </div>
+           {% endfor %}       
+       
+
+       <!-- Removed Static content End -->
+       
       </div>
     </div>
   </div>
