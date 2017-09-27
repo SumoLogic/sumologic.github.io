@@ -1,8 +1,8 @@
- - title: "Sumo Kubernetes Fluentd plugin"
+ - title: "Sumo K8S Fluentd plugin"
    url: "https://github.com/SumoLogic/fluentd-kubernetes-sumologic"
    img: "images/2.png"
 
- - title: "Docker logging driver plugins"
+ - title: "Docker logging plugin"
    url: "https://github.com/SumoLogic/sumologic-docker-logging-driver"
    img: "images/2.png"
 
