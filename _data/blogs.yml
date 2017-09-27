@@ -1,13 +1,13 @@
- - title: "Logging Node.js Lambda Functions with CloudWatch"
-   url: "https://www.sumologic.com/blog-devops/logging-with-node-js-lambdas-cloudwatch/"
+ - title: "How Should We Monitor Docker Now?"
+   url: "How Should We Monitor Docker Now?"
    imgurl: "/images/9.png"
 
- - title: "Dockerizing Microservices for Cloud Apps at Scale"
-   url:  "https://www.sumologic.com/blog-devops/dockerizing-microservices-scale/"
+ - title: "How to Develop a CI Pipeline with Jenkins"
+   url:  "https://www.sumologic.com/blog/devops/jenkins-developing-ci-pipeline/"
    imgurl: "/images/14.png"
 
- - title: "Logging S3 API Calls with CloudTrail"
-   url: "https://www.sumologic.com/blog-devops/logging-s3-api-calls-with-cloudtrail/"
+ - title: "Building Java Microservices with the DropWizard Framework"
+   url: "https://www.sumologic.com/blog/devops/building-java-microservices-with-the-dropwizard-framework/"
    imgurl: "/images/6.png"
 
  - title: "Using HTTP Request Builders to Create Repeatable API Workflows"

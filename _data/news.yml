@@ -1,21 +1,21 @@
- - title: "FluentD out to Sumo"
-   url: "https://github.com/SumoLogic/fluentd-output-sumologic"
+ - title: "Sumo Kubernetes Fluentd plugin"
+   url: "https://github.com/SumoLogic/fluentd-kubernetes-sumologic"
    img: "images/2.png"
 
- - title: "Kubernetes to Sumo"
-   url: "https://github.com/SumoLogic/fluentd-kubernetes-sumologic"
+ - title: "Docker logging driver plugins"
+   url: "https://github.com/SumoLogic/sumologic-docker-logging-driver"
    img: "images/2.png"
 
  - title: "Epigraph Framework"
    url: "https://github.com/SumoLogic/epigraph"
    img: "images/8.png"
 
- - title: "Sumo Report Generator"
-   url: "https://github.com/SumoLogic/sumo-report-generator"
+ - title: "Elasticsearch Client"
+   url: "https://github.com/SumoLogic/elasticsearch-client"
    img: "images/2.png"
 
- - title: "CloudWatch Connector"
-   url: "https://github.com/santthosh/sumologic-cloudwatch-lambda"
+ - title: "Grafana Sumo logic plugin"
+   url: "https://github.com/SumoLogic/grafana-sumo"
    img: "images/3.png"
 
  - title: "Lambda Unzip"
