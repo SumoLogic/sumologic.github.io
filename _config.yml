@@ -17,7 +17,7 @@ title: Sumo Logic Developers
 email: info@sumologic.com
 description: > # this means to ignore newlines until "baseurl:"
   Download collectors, scripts, free SDKs and tools to help you troubleshoot apps in production. Use REST APIs to create custom solutions. 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "http://developer.sumologic.com/" # the subpath of your site, e.g. /blog
 repository: https://github.com/SumoLogic/sumologic.github.io
 timezone: America/Los_Angeles
 twitter_username: sumologic
