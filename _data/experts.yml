@@ -1,6 +1,6 @@
  - title: "powerstrip-logfiles"
    repo_description: "Easily centralize log files from within a container when 'fat' containers make it difficult to log to stdout."
-   url: ""
+   url: "https://github.com/raychaser/powerstrip-logfiles"
  - title: "Saltstack Formulas for Sumo Logic"
    repo_description: "Formulas are pre-written Salt States. These formulas can be used to setup the Sumo Logic service.-"
    url: "https://github.com/saltstack-formulas/sumo-logic-formula"
@@ -29,10 +29,6 @@
    repo_description: "The Ruby SDK ported from the Sumo Logic Python SDK, providing a Ruby interface to the Sumo Logic REST API."
    url: "https://github.com/grokify/sumologic-sdk-ruby"
 
- - title: "SumoTools PowerShell Module"
-   repo_description: "PowerShell Module of functions running against the Sumo Logic API"
-   url: "https://github.com/ScriptAutomate/SumoTools"
-
  - title: "Useful Regular Expressions"
    repo_description: "A Collection of Useful Regular Expressions when searching logs using Sumo Logic"
    url: "https://github.com/SumoGoodies/Useful-RegEx"
@@ -48,10 +44,6 @@
  - title: "Nodejs Client"
    repo_description: "A simple client implementation in node.js to send logs to Sumo Logic."
    url: "https://www.npmjs.com/package/logs-to-sumologic"
-
- - title: "FluentD Plugin for Sumo Logic"
-   repo_description: "Open-source data collector that decouples data sources from backend systems."
-   url: "https://github.com/memorycraft/fluent-plugin-sumologic"
 
  - title: "Sumo Search for Ruby"
    repo_description: "A Ruby Gem that utilizes the Sumo Logic Search Job API and allows you to search logs from the command line."
