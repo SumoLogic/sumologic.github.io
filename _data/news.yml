@@ -1,5 +1,5 @@
- - title: "Sumo K8S Fluentd plugin"
-   url: "https://github.com/SumoLogic/fluentd-kubernetes-sumologic"
+ - title: "Kubernetes collection"
+   url: "https://github.com/SumoLogic/sumologic-kubernetes-collection"
    img: "images/2.png"
 
  - title: "Docker logging plugin"
