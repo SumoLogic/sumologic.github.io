@@ -20,5 +20,5 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "nokogiri", "~> 1.11.0"
+  gem "nokogiri", "~> 1.11.4"
 end
