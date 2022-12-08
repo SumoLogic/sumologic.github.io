@@ -68,7 +68,7 @@ GEM
     mini_portile2 (2.8.0)
     minima (2.0.0)
     minitest (5.11.3)
-    nokogiri (1.13.9)
+    nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     parslet (1.5.0)
@@ -77,7 +77,7 @@ GEM
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    racc (1.6.0)
+    racc (1.6.1)
     rake (13.0.6)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
@@ -101,7 +101,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   minima
-  nokogiri (~> 1.13.9)
+  nokogiri (~> 1.13.10)
 
 RUBY VERSION
    ruby 2.4.1p111
